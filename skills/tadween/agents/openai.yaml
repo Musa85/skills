@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tadween"
+  short_description: "Document project context so new sessions resume without re-explaining"
+policy:
+  allow_implicit_invocation: true
